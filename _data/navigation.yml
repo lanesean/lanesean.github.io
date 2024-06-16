@@ -1,10 +1,10 @@
 # main links links
 main:
   - title: "Education"
-    url: /publications/
+    url: /teaching/
 
   - title: "Resume"
-    url: /files/SeanLane Resume.pdf/    
+    url: /files/SeanLane\ Resume.pdf/    
 
   - title: "Portfolio"
     url: /portfolio/
