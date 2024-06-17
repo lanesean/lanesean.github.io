@@ -1,7 +1,7 @@
 ---
-title: "University Work"
+title: "University work"
 ---
--
+
 ---
 
 # <span style="color:DarkGreen">Michigan State University Classes and Learnings</span>.
