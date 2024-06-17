@@ -1,6 +1,9 @@
 ---
 title: "University Work"
 ---
+
+---
+
 # Michigan State University Classes and Learnings
 
 ## CMSE 201: Introduction to Computational Modeling and Data Analysis
