@@ -4,7 +4,7 @@ title: "University Work"
 
 ---
 
-# <p>SMichigan State University Classes and Learnings <span style="color:DarkGreen">some <em>blue</em> text</span>.</p>
+# <p><span style="color:DarkGreen">Michigan State University Classes and Learnings</span>.</p>
 
 ## CMSE 201: Introduction to Computational Modeling and Data Analysis
 - **Gains:**
